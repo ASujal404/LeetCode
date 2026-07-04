@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ASujal404/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ASujal404/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ASujal404/LeetCode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/ASujal404/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ASujal404/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ASujal404/LeetCode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ASujal404/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/ASujal404/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ASujal404/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ASujal404/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ASujal404/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ASujal404/LeetCode/tree/master/0860-lemonade-change) |
