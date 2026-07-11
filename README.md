@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ASujal404/LeetCode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/ASujal404/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ASujal404/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/ASujal404/LeetCode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
