@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ASujal404/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ASujal404/LeetCode/tree/master/0055-jump-game) |
+| [0169-majority-element](https://github.com/ASujal404/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/ASujal404/LeetCode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/ASujal404/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ASujal404/LeetCode/tree/master/0735-asteroid-collision) |
@@ -165,12 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ASujal404/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/ASujal404/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ASujal404/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ASujal404/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ASujal404/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/ASujal404/LeetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ASujal404/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
@@ -225,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ASujal404/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ASujal404/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ASujal404/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ASujal404/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
