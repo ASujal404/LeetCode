@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ASujal404/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ASujal404/LeetCode/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/ASujal404/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ASujal404/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/ASujal404/LeetCode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/ASujal404/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ASujal404/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ASujal404/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/ASujal404/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ASujal404/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ASujal404/LeetCode/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ASujal404/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
