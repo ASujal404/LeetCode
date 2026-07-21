@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASujal404/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ASujal404/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ASujal404/LeetCode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ASujal404/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/ASujal404/LeetCode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/ASujal404/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ASujal404/LeetCode/tree/master/0735-asteroid-collision) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ASujal404/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/ASujal404/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ASujal404/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
